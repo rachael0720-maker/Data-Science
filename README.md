@@ -1,3 +1,6 @@
+MARKET BASKET ANALYSIS:
+
+
 The first step of the algorithm is to identify distinct items in the given set of transactions. Let’s say these are ({A}, {B}, {C}, {D}).
 
 Once you have different items, your next step would be to calculate the support of each of these items. Items with support values less than the minimum support are removed from the distinct items list.
